@@ -1,6 +1,6 @@
 # Chromium
 
-# Building Chromium for iOS
+## Building Chromium for iOS
 Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web. 
 In this tutorial, I'm going to tell how to do checking out and building Chromium for iOS. It's quite bit complicated 😟 when you see in the official site. I made it simple to play around.💪
 
